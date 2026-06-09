@@ -5,3 +5,6 @@ Thumbs.db
 # Editor
 .vscode/
 *.swp
+
+# 本地同步腳本，不納入版控
+sync-to-repo.ps1
